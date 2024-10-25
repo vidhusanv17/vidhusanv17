@@ -11,8 +11,8 @@
 - ⚡ fact: Man with good looks
 
   ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/vidhusan-varatharasan)
-- Email: vidhusan17@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/vidhusan-varatharasan)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vidhusan17@gmail.com)
 <!---
 vidhusanv17/vidhusanv17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
