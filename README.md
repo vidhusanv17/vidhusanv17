@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning B.E.CSE
 - 💞️ I’m looking to collaborate on Coding
 - 😄 Pronouns: Him
-- ⚡ Fun fact: Men with good looks
+- ⚡ fact: Man with good looks
 
   ## 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/vidhusan-varatharasan)
