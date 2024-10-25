@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @vidhusanv17
+# Hi, I’m Vidhusan Varatharasan
+## 🛠 Skills
+ ### *Programming Languages: Python, C, Java etc.*
+ ### *Tools & Technologies: Git, SQL, etc.*
+
+ 
 - 👀 I’m interested in Coding and solving real time problems
 - 🌱 I’m currently learning B.E.CSE
 - 💞️ I’m looking to collaborate on Coding
