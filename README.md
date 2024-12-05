@@ -5,7 +5,7 @@
 
  
 - 👀 I’m interested in Coding and solving real time problems
-- 🌱 I’m currently learning B.E.CSE
+- 🌱 I’m currently learning B.E.CSE at Anna University 
 - 💞️ I’m looking to collaborate on Coding
 - 😄 Pronouns: Him
 - ⚡ fact: Man with good looks
