@@ -13,9 +13,9 @@
   <a href="mailto:vidhusan17@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width:32px;">
   </a>
-  <a href="resume_dinesh_s2.pdf" class="btn" download>
+  <a href="https://vidhusan.netlify.app/" class="btn" download>
     <img src="https://img.icons8.com/?size=100&id=ZLTrllhOQJs2&format=png&color=000000" 
-         alt="Download Resume" 
+         alt="portfolio" 
          style="width:32px; height:32px;">
   </a>
 </div>
